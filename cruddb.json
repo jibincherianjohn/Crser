@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Agith",
+      "email": "Agith45@gmail.com",
+      "age": "35",
+      "gender": "Male",
+      "id": "L-Od0m5"
+    },
+    {
+      "name": "Buck",
+      "email": "Buck@gmail.com",
+      "age": "35",
+      "gender": "Male",
+      "id": "u78G1NG"
+    },
+    {
+      "name": "Messi",
+      "email": "Messil10@gmail.com",
+      "age": "36",
+      "gender": "Male",
+      "id": "auQmkQ9"
+    },
+    {
+      "name": "Selena",
+      "email": "selena@gmail.com",
+      "age": "23",
+      "gender": "Female",
+      "id": "NMEOVYw"
+    },
+    {
+      "name": "jibin",
+      "email": "jibinjohn518@gmail.com",
+      "age": "21",
+      "gender": "Male",
+      "id": "6-JL0ES"
+    }
+  ]
+}
